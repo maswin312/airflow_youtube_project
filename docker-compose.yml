@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  airflowyoutubeproject:
+    image: airflowyoutubeproject
+    build:
+      context: .
+      dockerfile: ./Dockerfile
