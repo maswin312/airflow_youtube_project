@@ -177,3 +177,4 @@ pyrightconfig.json
 dags/service_account_key.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
+dags/.DS_store
